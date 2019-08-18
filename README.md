@@ -21,10 +21,6 @@ Use these files on your own risk !
   A stuff left after experimenting with Termux packages compiled against
   [Musl](https://www.musl-libc.org/) C library.
 
-- [/my-dotfiles](./my-dotfiles)
-
-  A set of configuration files and scripts I use in my Termux installation.
-
 - [/utilities](./utilities)
 
   Various utilities for Termux that may be useful.
